@@ -1,0 +1,13 @@
+C:\Users\MDUDYS\Desktop\NerglishTranslator\NerglishTranslator\bin\Debug\NerglishTranslator.exe.config
+C:\Users\MDUDYS\Desktop\NerglishTranslator\NerglishTranslator\bin\Debug\NerglishTranslator.exe
+C:\Users\MDUDYS\Desktop\NerglishTranslator\NerglishTranslator\bin\Debug\NerglishTranslator.pdb
+C:\Users\MDUDYS\Desktop\NerglishTranslator\NerglishTranslator\obj\Debug\NerglishTranslator.csprojAssemblyReference.cache
+C:\Users\MDUDYS\Desktop\NerglishTranslator\NerglishTranslator\obj\Debug\NerglishTranslator.exe
+C:\Users\MDUDYS\Desktop\NerglishTranslator\NerglishTranslator\obj\Debug\NerglishTranslator.pdb
+E:\WSZELAKA_INFA\PROGRAMOWANIE C#\ToNerglishTranslator\NerglishTranslator\bin\Debug\NerglishTranslator.exe.config
+E:\WSZELAKA_INFA\PROGRAMOWANIE C#\ToNerglishTranslator\NerglishTranslator\bin\Debug\NerglishTranslator.exe
+E:\WSZELAKA_INFA\PROGRAMOWANIE C#\ToNerglishTranslator\NerglishTranslator\bin\Debug\NerglishTranslator.pdb
+E:\WSZELAKA_INFA\PROGRAMOWANIE C#\ToNerglishTranslator\NerglishTranslator\obj\Debug\NerglishTranslator.csprojAssemblyReference.cache
+E:\WSZELAKA_INFA\PROGRAMOWANIE C#\ToNerglishTranslator\NerglishTranslator\obj\Debug\NerglishTranslator.csproj.CoreCompileInputs.cache
+E:\WSZELAKA_INFA\PROGRAMOWANIE C#\ToNerglishTranslator\NerglishTranslator\obj\Debug\NerglishTranslator.exe
+E:\WSZELAKA_INFA\PROGRAMOWANIE C#\ToNerglishTranslator\NerglishTranslator\obj\Debug\NerglishTranslator.pdb
